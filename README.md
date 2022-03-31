@@ -1,4 +1,4 @@
-# Introduction
+# Me My Miny Mo
 
 I am a physicist with experience and interest in data science, machine learning, signal processing and intelligent machines. I have experience in machine learning, Bayesian data analysis, signal processing, and image analysis especially neuroimage analysis. My research includes algorithm development, signal detection and source separation. I also like data analysis, pattern recognition, big data exploration, and application of machine learning. I worked with various types of neuroimage modalities like structural MRI, functional MRI, diffusion weighted MR-images (DWI), PET images, EEG, and cognitive measures. 
 
