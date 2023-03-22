@@ -4,4 +4,4 @@ I am a physicist with a strong background in data science, machine learning, and
 
 When I need to unwind, I enjoy light gardening, walking, and watching TV. I also have a handyman side and love to fix things around my house, including computers, appliances, hardware, toys and cellphones too. While I used to play cricket and squash in the past, I have found new ways to find peace and balance in my life.
 
-Here is  my [Data Science & Machine Learning](../../../DSDoctor) contribution!
+Here is some [Data Science & Machine Learning](../../../DSDoctor) learning material!
